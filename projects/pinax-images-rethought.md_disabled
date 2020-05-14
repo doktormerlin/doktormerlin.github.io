@@ -1,0 +1,8 @@
++++
+title = "Pinax Images Rethought"
+weight = 20
+
+[asset]
+  icon = "far fa-images"
+  url = "https://github.com/doktormerlin/pinax-images-rethought"
++++
